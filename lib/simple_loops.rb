@@ -20,14 +20,16 @@ def loop_message_n_times(message, integer)
 end
 
 
-def output_array
+#def output_array
 
-end
+#end
 
 
-def return_string_array
+#def return_string_array
 
-end
+#end
 
 
 #loop_message_five_times(message)
+
+def loop_message_n_times(message, 2)
