@@ -1,9 +1,11 @@
 # Write your methods here
 
-message = "Hi there friend."
+message = ["Hi there friend."]
 def loop_message_five_times(message)
   counter = 0
-  5.times { puts message }
+
+  while counter < 5 do
+  puts message
   counter += 1
 end
 
