@@ -11,7 +11,7 @@ def loop_message_five_times(message)
 end
 
 
-def loop_message_n_times(message, integer)
+def loop_message_n_times(message, 2)
   counter = 0
   while counter < integer do
     puts message
