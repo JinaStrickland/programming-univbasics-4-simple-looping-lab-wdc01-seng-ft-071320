@@ -1,7 +1,7 @@
 # Write your methods here
 
+message = "Hi there friend."
 def loop_message_five_times(message)
-  message = "Hi there friend."
   5.times { puts message }
 end
 
@@ -21,4 +21,4 @@ def return_string_array
 =end
 
 
-#loop_message_five_times(message)
+loop_message_five_times(message)
