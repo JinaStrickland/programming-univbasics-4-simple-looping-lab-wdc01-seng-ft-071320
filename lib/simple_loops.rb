@@ -11,14 +11,14 @@ def loop_message_five_times(message)
 end
 
 
-def loop_message_n_times(message, number = 4)
+def loop_message_n_times(message, i)
   counter = 0
-  while counter < number do
+  while counter < i do
     puts message
     counter =+ 1
   end
 end
-
+loop_message_n_times(message, i = 2)
 
 #def output_array
 
