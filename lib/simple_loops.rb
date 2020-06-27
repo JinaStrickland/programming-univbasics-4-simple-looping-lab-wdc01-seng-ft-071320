@@ -5,7 +5,7 @@ def loop_message_five_times(message)
   puts 5.times.message
 end
 
-
+=begind
 def loop_message_n_times
 
 end
@@ -18,7 +18,7 @@ end
 
 def return_string_array
 
-end
+=end
 
 
 loop_message_five_times(message)
