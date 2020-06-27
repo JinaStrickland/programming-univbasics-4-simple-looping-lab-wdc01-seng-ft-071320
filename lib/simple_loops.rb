@@ -2,7 +2,9 @@
 
 message = "Hi there friend."
 def loop_message_five_times(message)
+  counter = 0
   5.times { puts message }
+  counter += 1
 end
 
 =begin
