@@ -2,7 +2,7 @@
 
 def loop_message_five_times(message)
   message = "Hi there friend."
-  puts 5.times.message
+  5.times { puts message }
 end
 
 =begin
