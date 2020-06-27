@@ -1,6 +1,7 @@
 # Write your methods here
 
 message = ["Hi there friend."]
+
 def loop_message_five_times(message)
   counter = 0
 
